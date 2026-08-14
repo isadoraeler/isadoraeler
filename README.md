@@ -66,7 +66,7 @@ Continuar evoluindo na área de tecnologia através da criação de projetos, ap
 
 ## 🔗 Contato
 
-<a href="www.linkedin.com/in/isadora-roosevelt-eler-83106b375">
+<a href="https://www.linkedin.com/in/isadora-eler">
 <img 
 alt="LinkedIn"
 title="LinkedIn"
