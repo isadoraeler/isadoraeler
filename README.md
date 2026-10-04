@@ -41,23 +41,6 @@ Tenho interesse em desenvolvimento de software, criação de interfaces, program
 
 ---
 
-## 📌 Projetos
-
-### 🌐 Landing Page Pessoal
-
-Minha primeira página publicada, desenvolvida para praticar conceitos de desenvolvimento web, estruturação de páginas e estilização com CSS.
-
-Tecnologias utilizadas:
-
-- HTML
-- CSS
-
-🔗 Acesse o projeto:
-
-[Landing Page](https://isadoraeler.github.io/Landing-Page/)
-
----
-
 ## 🎯 Objetivo
 
 Continuar evoluindo na área de tecnologia através da criação de projetos, aprendendo novas ferramentas e desenvolvendo minhas habilidades como futura desenvolvedora.
