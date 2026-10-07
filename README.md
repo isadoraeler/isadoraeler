@@ -39,9 +39,9 @@ Tenho interesse em desenvolvimento de software, criação de interfaces, program
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoraeler&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoraeler&layout=compact&theme=tokyonight" />
 </div>
