@@ -39,6 +39,22 @@ Tenho interesse em desenvolvimento de software, criação de interfaces, program
 
 ---
 
+## 📊 Minhas Estatísticas
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=isadoraeler&show_icons=true&bg_color=0D1B2A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"
+  alt="Estatísticas do GitHub"
+/>
+
+## 💻 Minhas Linguagens
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoraeler&layout=compact&bg_color=0D1B2A&title_color=FFFFFF&text_color=FFFFFF"
+  alt="Linguagens de programação mais utilizadas"
+/>
+
+---
+
 ## 🌱 Atualmente estudando
 
 - Desenvolvimento Web
