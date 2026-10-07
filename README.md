@@ -39,12 +39,6 @@ Tenho interesse em desenvolvimento de software, criação de interfaces, program
 
 ---
 
-💻 My Programming Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoraeler&layout=compact&theme=dark" alt="Linguagens de programação mais utilizadas" />
-
----
-
 ## 🌱 Atualmente estudando
 
 - Desenvolvimento Web
