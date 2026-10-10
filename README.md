@@ -10,17 +10,24 @@ Tenho interesse em desenvolvimento de software, criação de interfaces, program
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-
+## 🚀 Tecnologias
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<img align="left" alt="PyCharm" title="PyCharm" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img align="left" alt="React Native" title="React Native" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
+
+<br/>
+<br/>
+
+## 🚀 Ferramentas
+
+<img align="left" alt="PyCharm" title="PyCharm" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
@@ -34,17 +41,8 @@ Tenho interesse em desenvolvimento de software, criação de interfaces, program
 
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
-<br/>
-<br/>
-
----
-
-## 📊 Estatísticas
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoraeler&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoraeler&layout=compact&theme=tokyonight" />
-</div>
+</br>
+</br>
 
 ---
 
@@ -58,19 +56,18 @@ Tenho interesse em desenvolvimento de software, criação de interfaces, program
 
 ---
 
-## 🎯 Objetivo
+## 📊 Estatísticas
 
-Continuar evoluindo na área de tecnologia através da criação de projetos, aprendendo novas ferramentas e desenvolvendo minhas habilidades como futura desenvolvedora.
-
----
+<div>
+  <img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=isadoraeler&show_icons=true&theme=algolia&count_private=true&custom_title=My%20GitHub%20Statistics" />
+  <img width="420" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoraeler&layout=compact&theme=algolia" />
+</div>
 
 ## 🔗 Contato
-
-<a href="https://www.linkedin.com/in/isadora-eler">
-<img 
-alt="LinkedIn"
-title="LinkedIn"
-width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-/>
+<a href="https://www.linkedin.com/in/isadora-eler" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:isadoraeler19@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </a>
