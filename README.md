@@ -74,3 +74,10 @@ width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
 />
 </a>
+
+---
+
+## Meu GitHub em movimento
+
+![Meu gráfico de contribuições animado](https://github4life.herokuapp.com/isadoraeler)
+
