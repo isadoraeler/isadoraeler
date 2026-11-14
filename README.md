@@ -58,9 +58,10 @@ Tenho interesse em desenvolvimento de software, criação de interfaces, program
 
 ## 📊 Estatísticas
 
-<div>
-  <img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=isadoraeler&show_icons=true&theme=algolia&count_private=true&custom_title=My%20GitHub%20Statistics" />
-  <img width="420" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoraeler&layout=compact&theme=algolia" />
+<div align="center">
+  <img src="./github-metrics.svg" alt="Estatísticas do GitHub" width="90%" />
+  <br/>
+  <img src="./top-langs.svg" alt="Linguagens mais utilizadas" width="60%" />
 </div>
 
 ## 🔗 Contato
