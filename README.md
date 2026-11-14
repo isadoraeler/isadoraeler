@@ -56,14 +56,6 @@ Tenho interesse em desenvolvimento de software, criação de interfaces, program
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="Estatísticas do GitHub" width="90%" />
-  <br/>
-  <img src="./top-langs.svg" alt="Linguagens mais utilizadas" width="60%" />
-</div>
-
 ## 🔗 Contato
 <a href="https://www.linkedin.com/in/isadora-eler" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
