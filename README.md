@@ -59,8 +59,8 @@ Tenho interesse em desenvolvimento de software, criação de interfaces, program
 ## GitHub Stats
 
 <p>
-  <img height="165" alt="My GitHub Statistics" src="./assets/stats.svg" />
-  <img height="165" alt="My Programming Languages" src="./assets/langs.svg" />
+  <img height="165" alt="My GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=isadoraeler&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" alt="My Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoraeler&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔗 Contato
